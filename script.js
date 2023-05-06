@@ -78,8 +78,10 @@ function adicionarItem(nomeProd, preço) {
   document.getElementById('listaItens').appendChild(novoItem);
 }
 
-function cadastro(){
-
+function cadastro(event){
+    
+    event.preventDefault();
+    
     var inputNome = document.querySelector("#Inome");
     var inputEmail = document.querySelector("#Iemail");
     var inputSenha = document.querySelector("#Isenha");
