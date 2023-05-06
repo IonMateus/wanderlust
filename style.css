@@ -1,0 +1,176 @@
+/*
+F4F4D6  back
+98C9CB  claro1
+626F80  conteudo escuro
+4B264C  escura
+*/
+
+*{
+    margin: 10px;
+    padding: 2px;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+body{
+    background-color: #f4ebd6;
+}
+
+img{
+    width: 300px;
+}
+
+h1{
+    font-size: 50px;
+    color: #4B264C;
+}
+
+button{
+    width: 100px;
+    height: 60px;
+    background-color: #626F80;
+    border: 4px solid #626F80;
+    border-radius: 30px 30px;
+    font-size: 20px;
+    box-shadow: 3px 3px 7px #4B264C;
+}
+
+button:hover{
+    box-shadow: 3px 3px 9px #4B264C;
+    scale: 1.02;
+}
+
+button:active{
+    box-shadow: 3px 3px 5px #4B264C;
+    scale: 0.9;
+}
+
+a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #626F80;
+}
+
+a:hover{
+    color: #4B264C;
+    border-bottom: 3px solid #4B264C;
+}
+
+table, td, tr, th{
+    border: 3px solid #4B264C;
+    border-collapse: collapse;
+    padding: 10px;
+    
+}
+
+table{
+    position: relative;
+    display: grid;
+    place-content: center;
+    border: 0px solid;
+}
+
+tr:hover{
+    background-color: #98C9CB;
+}
+
+.lista{
+    width: 500px;
+    position: relative;
+    left: 50%;
+    margin: 0px -250px;
+    justify-content: center;
+    font-size: 20px;
+}
+
+li:hover{
+    background-color: #98C9CB;
+}
+
+#menu{
+    position: sticky;
+    top: 10px;
+    background-color: #98C9CB;
+    padding: 10px;
+    z-index: 1;
+
+}
+
+#mensagem{
+    position: sticky;
+    top: 0px;
+    background-color: #626F80;
+    z-index: 2;
+    height: 52px;
+}
+
+footer{
+    background-color: #98C9CB;
+    position: relative;
+    bottom: auto;
+    width: 100%;
+}
+
+#produto{
+width: 400px;
+justify-content: center;
+box-shadow: 0px 0px 10px #98C9CB
+}
+
+#produtos1{
+left: 30%;
+}
+
+#produtos2{
+   left: 70%; 
+}
+
+#produtos1, #produtos2{
+    position:relative;
+    margin: 100px -200px;
+    top:0%
+}
+
+#produtos{
+    display: flex;
+}
+
+input{
+    padding: 7px;
+    margin: 20px;
+}
+
+#Inome, #Iemail, #Isenha{
+    width: 203px;
+}
+
+#Ilimpar, #Icadastro{
+    width: 102px;
+    border: 5px solid #626F80;
+    background-color: #626F80;
+    border-radius: 10px 10px 10px;
+}
+
+#Ilimpar:hover, #Icadastro:hover{
+    scale: 1.06;
+}
+
+#Ilimpar:active, #Icadastro:active{
+    scale: 0.9;
+}
+
+ #status{
+    position: sticky;
+    top: 60px;
+    left: auto;
+    width: 130px;
+    background-color: #98C9CB;
+    z-index: 1;
+ }
+
+#sobre{
+    font-size: 30px;
+    width: 1500px;
+    margin: auto;
+}
