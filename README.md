@@ -1,31 +1,24 @@
 # Wanderlust
 
 ## Links
-https://ionmateus.github.io/cotucaflix/
+https://ionmateus.github.io/wanderlust/
 
 ## Descrição
-<p>Site de filmes "Cotucaflix". Site inventado para tarefa.</p>
+<p>Empresa de viagens fictícia</p>
 
 ## Dados
-* Tarefa de Desenvolvimento para Internet - Cotuca, março de 2023
-* Tempo utilizado: Aproximadamente 6 horas
-* Feito com HTML e CSS
+* Tarefa de Desenvolvimento para Internet - Cotuca, maio de 2023
+* Feito com HTML, CSS e JS
 
 ## Imagens
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/home.png"/> 
-Home <br> <br>  <br>
+<img src="https://raw.githubusercontent.com/IonMateus/wanderlust/main/ReadmeImages/buy.png"/> 
+Produtos <br> <br>  <br>
 
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/rodape.png"/>
+<img src="https://raw.githubusercontent.com/IonMateus/wanderlust/main/ReadmeImages/contato.png"/>
+Contato <br>  <br>  <br>
+
+<img src="https://raw.githubusercontent.com/IonMateus/wanderlust/main/ReadmeImages/login.png"/>
+Cadastro <br>  <br>  <br>
+
+<img src="https://raw.githubusercontent.com/IonMateus/wanderlust/main/ReadmeImages/footer.png"/>
 Rodapé <br>  <br>  <br>
-
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/catalogo.png"/>
-Catálogo de filmes <br>  <br>  <br>
-
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/creditos.png"/>
-Créditos <br>  <br>  <br>
-
-<img src="https://raw.githubusercontent.com/IonMateus/cotucaflix/main/imagesReadme/grade.png"/>
-Grade de filmes <br>  <br>  <br>
-
-## Créditos
-<p>Todas as imagens e outros recursos usados estão mencionados dentro do site.</p>
